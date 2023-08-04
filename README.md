@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h1><b>Morse Message</b></h1>
+<h1><b>ENUMERABLE/b></h1>
 
 </div>
 
@@ -26,10 +26,10 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Morse Message <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
 
-**Morse Message** is a Ruby script that efficiently decodes Morse code messages, providing uppercase translations for characters and entire words.
+**Enumerable** is a Ruby script that creates an enum file for specific ruby methods thus the use a module inside your class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ProgramKingAbel/morse-message.git
+  git clone https://github.com/ProgramKingAbel/enumerable.git
 ```
 
 ### Install
