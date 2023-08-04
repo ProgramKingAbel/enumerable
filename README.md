@@ -46,7 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Decodes Morse Code**
+- **Implements Enum methods functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
