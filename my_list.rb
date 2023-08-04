@@ -1,5 +1,5 @@
 require_relative 'enum'
 
 class MyList
-  include MyEnumerable  
+  include MyEnumerable
 end
